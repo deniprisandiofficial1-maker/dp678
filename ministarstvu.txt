@@ -29,6 +29,7 @@
         <meta content="SGD" property="og:price:currency"/>
         <meta content="id_ID" property="og:locale"/>
         <meta content="summary_large_image" name="twitter:card"/>
+        <meta name="google-site-verification" content="Mf7VCIfhYe590g9uOaRf3UptZBaHXctrqGakYAW3tyk" />
         <meta content="KARTUTOTO &gt; Bandar Togel Online Terlengkap 76 Pasaran Dunia | HK, SG, Sydney, China" name="twitter:title"/>
         <meta content="KARTUTOTO adalah bandar togel online terlengkap dengan 76 pasaran dunia seperti Hongkong, Singapore, Sydney &amp; China. Minimal deposit 10K, proses cepat, aman &amp; terpercaya." name="twitter:description"/>
         <script async="" src="//app.backinstock.org/widget/91512_1746008386.js?category=bis&amp;v=6&amp;shop=istudio-elush-production.myshopify.com" type="text/javascript">
